@@ -8,14 +8,14 @@ Projects Overview:
 Located in /Credit_Scoring_Model
 This project focuses on developing a predictive model to assess creditworthiness based on historical financial data. It utilizes various classification algorithms and includes an evaluation of the model's accuracy and performance.
 
-Handwritten Character Recognition:
+2.Handwritten Character Recognition:
 
-2.Located in /Handwritten_Character_Recognition
+Located in /Handwritten_Character_Recognition
 A deep learning project aimed at creating a recognition system capable of understanding handwritten characters and alphabets. This extends to recognizing entire words and sentences, demonstrating the robustness of the model against diverse handwriting styles.
 
-Disease Prediction from Medical Data:
+3.Disease Prediction from Medical Data:
 
-3.Located in /Disease_Prediction
+Located in /Disease_Prediction
 This model predicts the likelihood of diseases based on medical data, such as symptoms and patient history. It processes labeled medical records with classification algorithms to forecast potential health risks.
 Technologies and Skills:
 Data Preprocessing: Data cleansing, normalization, and transformation to prepare datasets for analysis.
