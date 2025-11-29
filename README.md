@@ -17,8 +17,13 @@ A deep learning project aimed at creating a recognition system capable of unders
 
 Located in /Disease_Prediction
 This model predicts the likelihood of diseases based on medical data, such as symptoms and patient history. It processes labeled medical records with classification algorithms to forecast potential health risks.
+
 Technologies and Skills:
+
 Data Preprocessing: Data cleansing, normalization, and transformation to prepare datasets for analysis.
+
 Model Development: Application of machine learning techniques such as SVM, Random Forest, and neural networks.
+
 Performance Evaluation: Use of metrics such as accuracy, precision, recall, and F1 score to assess model efficacy.
+
 Visualization: Creation of insightful plots and charts to represent data and results clearly.
